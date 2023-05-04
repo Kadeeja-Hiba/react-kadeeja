@@ -1,0 +1,16 @@
+.simpleCalc {
+  width: 550px;
+  height: 500px;
+  border: 1px solid gray;
+  margin: 40px auto;
+}
+.calcHead {
+  text-align: center;
+}
+.inputBox {
+  display: flex;
+}
+.btnBox {
+  display: flex;
+  justify-content: center;
+}
